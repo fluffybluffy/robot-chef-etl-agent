@@ -1,7 +1,6 @@
-import pandas as pd
+from load_data import load_raw
 
-df = pd.read_csv('data/messy_IMDB_dataset.csv', sep=';',
-                   encoding='utf-8', encoding_errors='replace')
+df = load_raw()
 
 print(df.head())
 print(df.info())
