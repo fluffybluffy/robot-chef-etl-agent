@@ -25,3 +25,12 @@ print(df.describe())
 # - Country has spelling variants: 'US', 'USA', 'US.', 'New Zesland', 'Italy1'.
 # - Missing values: Content Rating (24), Duration (2).
 # - No duplicate rows.
+
+# WEEK 2 COMPARISON (AI report vs my findings)
+# - AI found, I missed: the day/month order is ambiguous (09 21 1972 vs 18/11/1976),
+#   and two-digit years do not say which century they mean.
+# - AI found, I missed: genres and directors hold several values in one cell.
+# - AI found, I missed: 'Approved' is an old rating, and 'Not Rated' is not the same as missing.
+# - AI found, I missed: Duration 220 for The Godfather: Part II looks wrong (as far as I know it is 202).
+# - I found, AI missed: Country spellings further down the file, such as 'US.' and 'Italy1'.
+#   The AI only saw the first 20 rows.

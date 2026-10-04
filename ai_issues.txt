@@ -1,0 +1,98 @@
+# Data quality issues by column
+
+## Column names / headers
+- **Encoding corruption:** `Original titl�` and `Genr�` have lost their final "e", so the last character was mangled by a wrong encoding.
+- **Typo:** `IMBD title ID` should be "IMDb" (the order of "M" and "B" is wrong).
+- **Leading whitespace:** ` Votes` has a leading space.
+- **Placeholder name:** `Unnamed: 8` is an auto-generated header, which suggests an empty or extra header cell in the source file.
+- **Inconsistent naming style:** The headers mix casing and conventions (`IMBD title ID`, `Release year`, `Content Rating`).
+
+## Whole rows
+- **Completely empty row:** Row 13 is NaN in every column.
+
+## IMBD title ID
+- **Missing value:** Row 13 is NaN. The other IDs look well-formed (`tt` plus 7 digits), but I can't check them for uniqueness from 20 rows.
+
+## Original titl�
+- **Missing value:** Row 13 is NaN.
+- **Mixed languages:** `Il buono, il brutto, il cattivo` is in Italian, while most others are English. This is arguably correct for an "original title" but should be confirmed.
+- **Embedded commas:** The Italian title contains commas, which can break parsing if the file isn't quoted properly.
+
+## Release year
+- **Wrong name or granularity:** The column is called "year" but holds full dates, and some values have no usable year.
+- **Many date formats mixed:**
+  - ISO: `1995-02-10`
+  - Space-separated MM DD YYYY: `09 21 1972`
+  - Stray space inside the date: `23 -07-2008`
+  - Day, abbreviated month, 2-digit year: `22 Feb 04`
+  - 2-digit year with dashes: `10-29-99`
+  - Ordinal text: `23rd December of 1966`
+  - Mixed separators with a 2-digit year: `01/16-03`
+  - Day-first with slashes: `18/11/1976`
+- **Ambiguous day/month order:** `18/11/1976` is clearly DD/MM, but `09 21 1972` is MM DD, and `22 Feb 04` could also be read as YY-Mon-DD.
+- **Ambiguous or truncated years:** `22 Feb 04`, `10-29-99` and `01/16-03` have 2-digit years, and the century has to be guessed.
+- **Questionable values:** `01/16-03` and `22 Feb 04` don't match the usual release years of those films (2002 and 2003). `2002-01-18` for *Fellowship of the Ring* looks off too, since the other Lord of the Rings dates don't line up.
+- **Stored as string:** The dates were not parsed as dates.
+- **Missing value:** Row 13 is NaN.
+
+## Genr�
+- **Multi-valued cells:** Several genres are packed into one comma-separated string (`Action, Adventure, Drama`), which breaks first normal form.
+- **Missing value:** Row 13 is NaN.
+
+## Duration
+- **Stored as string, with no unit stated** (presumably minutes).
+- **Placeholder strings for missing data:** `Nan`, `Inf`, `Not Applicable`, `-`.
+- **Blank value:** Row 4 (*Pulp Fiction*) is blank or whitespace rather than a true NaN.
+- **True NaN values:** Row 13 and row 14 (*The Matrix*).
+- **Stray characters:** `178c` has a trailing "c".
+- **Suspicious outlier:** `220` for *The Godfather: Part II* looks too long.
+- **Inconsistent missing-value representations:** NaN, blank, `Nan`, `Inf`, `-` and `Not Applicable` all mean the same thing.
+
+## Country
+- **Inconsistent labels for the same country:** `USA` vs `US`.
+- **Typos:** `New Zesland` and `New Zeland` should be "New Zealand".
+- **Questionable value:** `UK` for *Fight Club* may be wrong, since it is generally listed as a US production.
+- **Single-valued field:** Co-productions can't be represented.
+- **Missing value:** Row 13 is NaN.
+
+## Content Rating
+- **Overlapping or legacy categories:** `Approved` is an old MPAA label, and `Not Rated` is a different concept from missing data. Both sit alongside the current `R`, `PG-13` and `PG`.
+- **Missing value:** Row 13 is NaN, so it can't be distinguished from "Not Rated" without a rule.
+- **No standard vocabulary:** There is nothing here to validate against.
+
+## Director
+- **Multi-valued cell:** `Lana Wachowski, Lilly Wachowski` holds two names in one field.
+- **Missing value:** Row 13 is NaN.
+
+## Unnamed: 8
+- **Entirely empty:** Every sampled value is NaN, so it carries no information.
+- **Likely stray column:** It probably comes from an extra delimiter or a dropped column header.
+
+## Income
+- **Stored as string** with a `$ ` prefix that includes a space.
+- **Inconsistent thousands separators:** Most values have none (`$ 28815245`), but one uses commas (`$ 4o8,035,783`).
+- **Letter instead of digit:** `$ 4o8,035,783` has a lowercase "o" in place of "0".
+- **Implausible outlier:** `$ 576` for *12 Angry Men* is probably a truncated or mis-scaled value.
+- **Inconsistent definition of income:** `$ 28815245` for *Shawshank* looks like a domestic gross, while `$ 1005455211` for *The Dark Knight* looks like a worldwide gross.
+- **Currency not stated** beyond the `$` sign.
+- **Missing value:** Row 13 is NaN.
+
+## Votes (` Votes`)
+- **Stored as string, with `.` used as a thousands separator** (`2.278.845`). A parser will read these as malformed decimals.
+- **Inconsistent separator style:** Votes use `.` as the thousands separator, while Income uses either none or `,`.
+- **Missing value:** Row 13 is NaN.
+
+## Score
+- **Stored as string.**
+- **Stray trailing characters:** `9.`, `8.7.`, `8,9f`.
+- **Doubled punctuation:** `9,.0`, `8..8`.
+- **Wrong decimal separator:** `8:8` uses a colon, and `9,.0` and `8,9f` use commas.
+- **Leading characters:** `++8.7`, and `08.9` with a leading zero.
+- **Scientific-notation fragment:** `8,7e-0`.
+- **Inconsistent formatting overall:** The clean values (`9.3`, `8.9`) are mixed with the corrupted ones above.
+- **Missing value:** Row 13 is NaN.
+
+## Cross-cutting issues
+- **Numeric fields stored as text:** Duration, Income, Votes and Score are all `str`.
+- **Several encodings of missing data:** NaN, empty string, `Nan`, `Inf`, `-`, `Not Applicable`.
+- **Likely injected noise:** Random typos and stray characters appear across many columns (`4o8`, `178c`, `8,9f`, `Zesland`), so values need validation, not just reformatting.
