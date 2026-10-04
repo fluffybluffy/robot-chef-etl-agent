@@ -6,12 +6,12 @@ tt0071562,The Godfather: Part II,1975-09-25,"Crime, Drama",220,USA,R,Francis For
 tt0110912,Pulp Fiction,1994-10-28,"Crime, Drama",,USA,R,Quentin Tarantino,222831817,1780147,8.9
 tt0167260,The Lord of the Rings: The Return of the King,2004-02-22,"Action, Adventure, Drama",201,New Zealand,PG-13,Peter Jackson,1142271098,1604280,8.9
 tt0108052,Schindler's List,1994-03-11,"Biography, Drama, History",,USA,R,Steven Spielberg,322287794,1183248,8.9
-tt0050083,12 Angry Men,1957-09-04,"Crime, Drama",96,USA,Not Rated,Sidney Lumet,576,668473,8.9
+tt0050083,12 Angry Men,1957-09-04,"Crime, Drama",96,USA,Not Rated,Sidney Lumet,,668473,8.9
 tt1375666,Inception,2010-09-24,"Action, Adventure, Sci-Fi",148,USA,PG-13,Christopher Nolan,869784991,2002816,8.8
 tt0137523,Fight Club,1999-10-29,Drama,,UK,R,David Fincher,101218804,1807440,8.8
 tt0109830,Forrest Gump,1994-10-06,"Drama, Romance",142,USA,PG-13,Robert Zemeckis,678229452,1755490,8.8
 tt0120737,The Lord of the Rings: The Fellowship of the Ring,2002-01-18,"Action, Adventure, Drama",178,New Zealand,PG-13,Peter Jackson,887934303,1619920,8.8
-tt0060196,"Il buono, il brutto, il cattivo",1966-12-23,Western,161,Italy,Approved,Sergio Leone,25252481,672499,8.8
+tt0060196,"Il buono, il brutto, il cattivo",1966-12-23,Western,161,Italy,Not Rated,Sergio Leone,25252481,672499,8.8
 tt0133093,The Matrix,1999-05-07,"Action, Sci-Fi",,USA,R,"Lana Wachowski, Lilly Wachowski",465718588,1632315,8.7
 tt0167261,The Lord of the Rings: The Two Towers,2003-01-16,"Action, Adventure, Drama",179,New Zealand,PG-13,Peter Jackson,951227416,1449778,8.7
 tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980-09-19,"Action, Adventure, Fantasy",,USA,PG,Irvin Kershner,549265501,1132073,8.7
@@ -91,7 +91,7 @@ tt0033467,Citizen Kane,1948-11-25,"Drama, Mystery",119,USA,,Orson Welles,1594107
 tt8579674,1917,2020-01-23,"Drama, War",119,USA,,Sam Mendes,384857224,362897,7.6
 tt0086879,Amadeus,1985-02-15,"Biography, Drama, History",160,USA,R,Milos Forman,52066791,361028,7.6
 tt0052357,Vertigo,1958-11-18,"Mystery, Romance, Thriller",128,USA,,Alfred Hitchcock,7796389,352786,7.5
-tt0053125,North by Northwest,1959-10-28,"Adventure, Mystery, Thriller",136,USA,,Alfred Hitchcock,73446,291628,7.5
+tt0053125,North by Northwest,1959-10-28,"Adventure, Mystery, Thriller",136,USA,,Alfred Hitchcock,,291628,7.5
 tt2106476,Jagten,2012-11-22,Drama,115,Denmark,R,Thomas Vinterberg,15843274,269616,7.5
 tt0056172,Lawrence of Arabia,1963-10-29,"Adventure, Biography, Drama",228,UK,PG,David Lean,45710874,261504,7.5
 tt0070735,The Sting,1974-03-21,"Comedy, Crime, Drama",129,USA,PG,George Roy Hill,156000000,236285,7.5

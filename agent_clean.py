@@ -47,10 +47,11 @@ Required fixes:
 6. country: one standard spelling. US, US. and USA become 'USA'; 'New Zesland' and
    'New Zeland' become 'New Zealand'; 'Italy1' becomes 'Italy'.
 7. content_rating: keep G, PG, PG-13, R. 'Unrated' and 'Not Rated' become 'Not Rated'.
-   'Approved' stays as 'Approved'. Leave missing values missing.
+   'Approved' (an old label) also becomes 'Not Rated'. Leave missing values missing.
 8. income_usd: whole dollars. Remove '$', spaces and commas. If a stray letter such
    as the 'o' in '4o8,035,783' is clearly a typo for a digit, repair it (o -> 0);
-   otherwise make the value missing.
+   otherwise make the value missing. Incomes below 100000 are data errors, so make
+   them missing too.
 9. votes: whole numbers. Remove the dots used as thousands separators.
 10. imdb_score: a decimal between 0 and 10. Repair things like '9,.0', '8..8', '8:8',
     '++8.7', '8,9f', '08.9', '8,7e-0'. If it cannot be repaired, make it missing.
