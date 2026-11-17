@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "tt1675434",
+    "name": "Intouchables",
+    "released": "2012-02-24",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "runtime_minutes": 122,
+    "origin": "France",
+    "certificate": null,
+    "directed_by": [
+      "Olivier Nakache",
+      "Éric Toledano"
+    ],
+    "box_office": {
+      "worldwide_usd": 426588510
+    },
+    "ratings": {
+      "imdb": 7.9,
+      "votes": 736691
+    }
+  },
+  {
+    "id": "tt0253474",
+    "name": "The Pianist",
+    "released": "2002-10-25",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "runtime_minutes": 160,
+    "origin": "UK",
+    "certificate": "R",
+    "directed_by": [
+      "Roman Polanski"
+    ],
+    "box_office": {
+      "worldwide_usd": 120072577
+    }
+  },
+  {
+    "id": "tt2582802",
+    "name": "Whiplash",
+    "released": "2015-02-12",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "runtime_minutes": 106,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Damien Chazelle"
+    ],
+    "box_office": {
+      "worldwide_usd": 48983260
+    },
+    "ratings": {
+      "imdb": 8.4,
+      "votes": 690732
+    }
+  },
+  {
+    "id": "tt0054215",
+    "name": "Psycho",
+    "released": "1960-10-28",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime_minutes": "N/A",
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Alfred Hitchcock"
+    ],
+    "box_office": {
+      "worldwide_usd": 32008644
+    },
+    "ratings": {
+      "imdb": 8.3,
+      "votes": 586765
+    }
+  },
+  {
+    "id": "tt0034583",
+    "name": "Casablanca",
+    "released": "1946-11-21",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "runtime_minutes": 102,
+    "origin": "USA",
+    "certificate": "PG",
+    "directed_by": [
+      "Michael Curtiz"
+    ],
+    "box_office": {
+      "worldwide_usd": 4374761
+    },
+    "ratings": {
+      "imdb": 8.3,
+      "votes": 509953
+    }
+  },
+  {
+    "id": "tt0064116",
+    "name": "C'era una volta il West",
+    "released": "1968-12-21",
+    "genres": [
+      "Western"
+    ],
+    "runtime_minutes": 165,
+    "origin": "Italy",
+    "certificate": "PG-13",
+    "directed_by": [
+      "Sergio Leone"
+    ],
+    "box_office": {
+      "worldwide_usd": 112911
+    },
+    "ratings": {
+      "imdb": 8.3,
+      "votes": 295220
+    }
+  },
+  {
+    "id": "tt0095327",
+    "name": "Hotaru no haka",
+    "released": "2015-10-11",
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "runtime_minutes": 89,
+    "origin": "Japan",
+    "certificate": null,
+    "directed_by": [
+      "Isao Takahata"
+    ],
+    "box_office": {
+      "worldwide_usd": 516962
+    },
+    "ratings": {
+      "imdb": 8.3,
+      "votes": 225438
+    }
+  },
+  {
+    "id": "tt0095765",
+    "name": "Nuovo Cinema Paradiso",
+    "released": "1988-11-17",
+    "genres": [
+      "Drama"
+    ],
+    "runtime_minutes": 155,
+    "origin": "Italy",
+    "certificate": null,
+    "directed_by": [
+      "Giuseppe Tornatore"
+    ],
+    "box_office": {
+      "worldwide_usd": 13826605
+    },
+    "ratings": {
+      "imdb": 8.3,
+      "votes": 223050
+    }
+  },
+  {
+    "id": "tt0027977",
+    "name": "Modern Times",
+    "released": "1937-03-12",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "runtime_minutes": 87,
+    "origin": "USA",
+    "certificate": "G",
+    "directed_by": [
+      "Charles Chaplin"
+    ],
+    "box_office": {
+      "worldwide_usd": 457688
+    },
+    "ratings": {
+      "imdb": 8.3,
+      "votes": 211250
+    }
+  },
+  {
+    "id": "tt1345836",
+    "name": "The Dark Knight Rises",
+    "released": "2012-08-29",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "runtime_minutes": 164,
+    "origin": "UK",
+    "certificate": "PG-13",
+    "directed_by": [
+      "Christopher Nolan"
+    ],
+    "box_office": {
+      "worldwide_usd": 1081133191
+    },
+    "ratings": {
+      "imdb": 8.3,
+      "votes": 1480582
+    }
+  },
+  {
+    "id": "tt1853728",
+    "name": "Django Unchained",
+    "released": "2013-01-17",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "runtime_minutes": 165,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Quentin Tarantino"
+    ],
+    "box_office": {
+      "worldwide_usd": 425368238
+    },
+    "ratings": {
+      "imdb": 8.3,
+      "votes": 1317856
+    }
+  },
+  {
+    "id": "tt0209144",
+    "name": "Memento",
+    "released": "2001-01-19",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime_minutes": 113,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Christopher Nolan"
+    ],
+    "box_office": {
+      "worldwide_usd": 39970386
+    },
+    "ratings": {
+      "imdb": 8.2,
+      "votes": 1098879
+    }
+  },
+  {
+    "id": "tt0910970",
+    "name": "WALL·E",
+    "released": "2008-10-17",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "runtime_minutes": 98,
+    "origin": "USA",
+    "certificate": "G",
+    "directed_by": [
+      "Andrew Stanton"
+    ],
+    "box_office": {
+      "worldwide_usd": 521311860
+    },
+    "ratings": {
+      "imdb": 8.2,
+      "votes": 974734
+    }
+  },
+  {
+    "id": "tt0081505",
+    "name": "The Shining",
+    "released": "1980-12-22",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "runtime_minutes": 146,
+    "origin": "UK",
+    "certificate": "R",
+    "directed_by": [
+      "Stanley Kubrick"
+    ],
+    "box_office": {
+      "worldwide_usd": 46520613
+    },
+    "ratings": {
+      "imdb": 8.2,
+      "votes": 869480
+    }
+  },
+  {
+    "id": "tt0082971",
+    "name": "Raiders of the Lost Ark",
+    "released": "1981-06-12",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "runtime_minutes": 115,
+    "origin": "USA",
+    "certificate": "PG",
+    "directed_by": [
+      "Steven Spielberg"
+    ],
+    "box_office": {
+      "worldwide_usd": 390133212
+    },
+    "ratings": {
+      "imdb": 8.2,
+      "votes": 865510
+    }
+  },
+  {
+    "id": "tt4154756",
+    "name": "Avengers: Infinity War",
+    "released": "2018-04-25",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime_minutes": 149,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "box_office": {
+      "worldwide_usd": 2048359754
+    },
+    "ratings": {
+      "imdb": 8.2,
+      "votes": 796486
+    }
+  },
+  {
+    "id": "tt0078748",
+    "name": "Alien",
+    "released": "1979-10-25",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "runtime_minutes": 117,
+    "origin": "UK",
+    "certificate": "R",
+    "directed_by": [
+      "Ridley Scott"
+    ],
+    "box_office": {
+      "worldwide_usd": 108110316
+    },
+    "ratings": {
+      "imdb": 8.2,
+      "votes": 768874
+    }
+  },
+  {
+    "id": "tt4154796",
+    "name": "Avengers: Endgame",
+    "released": "2019-04-24",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime_minutes": 181,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "box_office": {
+      "worldwide_usd": 2797800564
+    },
+    "ratings": {
+      "imdb": 8.2,
+      "votes": 754786
+    }
+  },
+  {
+    "id": "tt0078788",
+    "name": "Apocalypse Now",
+    "released": "1979-12-18",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "runtime_minutes": 147,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Francis Ford Coppola"
+    ],
+    "box_office": {
+      "worldwide_usd": 91968688
+    },
+    "ratings": {
+      "imdb": 8.2,
+      "votes": 591251
+    }
+  },
+  {
+    "id": "tt0364569",
+    "name": "Oldeuboi",
+    "released": "2005-05-06",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime_minutes": 120,
+    "origin": "South Korea",
+    "certificate": "R",
+    "directed_by": [
+      "Chan-wook Park"
+    ],
+    "box_office": {
+      "worldwide_usd": 15002116
+    },
+    "ratings": {
+      "imdb": 8.1,
+      "votes": 501082
+    }
+  },
+  {
+    "id": "tt0057012",
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "released": "1964-04-03",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime_minutes": 95,
+    "origin": "UK",
+    "certificate": "PG",
+    "directed_by": [
+      "Stanley Kubrick"
+    ],
+    "box_office": {
+      "worldwide_usd": 9443876
+    },
+    "ratings": {
+      "imdb": 8.1,
+      "votes": 441115
+    }
+  },
+  {
+    "id": "tt0047396",
+    "name": "Rear Window",
+    "released": "1955-04-14",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime_minutes": 112,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Alfred Hitchcock"
+    ],
+    "box_office": {
+      "worldwide_usd": 37032034
+    },
+    "ratings": {
+      "imdb": 8.1,
+      "votes": 432390
+    }
+  },
+  {
+    "id": "tt2380307",
+    "name": "Coco",
+    "released": "2017-12-28",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "runtime_minutes": 105,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "box_office": {
+      "worldwide_usd": 807083670
+    },
+    "ratings": {
+      "imdb": 8.1,
+      "votes": 352455
+    }
+  },
+  {
+    "id": "tt0405094",
+    "name": "Das Leben der Anderen",
+    "released": "2007-04-06",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime_minutes": 137,
+    "origin": "Germany",
+    "certificate": "R",
+    "directed_by": [
+      "Florian Henckel von Donnersmarck"
+    ],
+    "box_office": {
+      "worldwide_usd": 77356942
+    },
+    "ratings": {
+      "imdb": 8.1,
+      "votes": 349642
+    }
+  },
+  {
+    "id": "tt4633694",
+    "name": "Spider-Man: Into the Spider-Verse",
+    "released": "2018-12-25",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime_minutes": 117,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Bob Persichetti",
+      "Peter Ramsey"
+    ],
+    "box_office": {
+      "worldwide_usd": 375540831
+    },
+    "ratings": {
+      "imdb": 8.1,
+      "votes": 335892
+    }
+  },
+  {
+    "id": "tt1187043",
+    "name": "3 Idiots",
+    "released": "2009-12-25",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime_minutes": 170,
+    "origin": "India",
+    "certificate": null,
+    "directed_by": [
+      "Rajkumar Hirani"
+    ],
+    "box_office": {
+      "worldwide_usd": 60262836
+    },
+    "ratings": {
+      "imdb": 8.1,
+      "votes": 332217
+    }
+  },
+  {
+    "id": "tt0119698",
+    "name": "Mononoke-hime",
+    "released": "2000-05-19",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "runtime_minutes": 134,
+    "origin": "Japan",
+    "certificate": "PG-13",
+    "directed_by": [
+      "Hayao Miyazaki"
+    ],
+    "box_office": {
+      "worldwide_usd": 169785629
+    },
+    "ratings": {
+      "imdb": 8.0,
+      "votes": 331045
+    }
+  },
+  {
+    "id": "tt0087843",
+    "name": "Once Upon a Time in America",
+    "released": "1984-09-28",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime_minutes": 229,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Sergio Leone"
+    ],
+    "box_office": {
+      "worldwide_usd": 5472914
+    },
+    "ratings": {
+      "imdb": 8.0,
+      "votes": 302317
+    }
+  },
+  {
+    "id": "tt0032553",
+    "name": "The Great Dictator",
+    "released": "1945-06-25",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "runtime_minutes": 125,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Charles Chaplin"
+    ],
+    "box_office": {
+      "worldwide_usd": 969879
+    },
+    "ratings": {
+      "imdb": 8.0,
+      "votes": 197381
+    }
+  },
+  {
+    "id": "tt0043014",
+    "name": "Sunset Blvd.",
+    "released": "1951-03-06",
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "runtime_minutes": 110,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Billy Wilder"
+    ],
+    "box_office": {
+      "worldwide_usd": 299645
+    },
+    "ratings": {
+      "imdb": 8.0,
+      "votes": 195789
+    }
+  },
+  {
+    "id": "tt0361748",
+    "name": "Inglourious Basterds",
+    "released": "2009-10-02",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "runtime_minutes": 153,
+    "origin": "Germany",
+    "certificate": "R",
+    "directed_by": [
+      "Quentin Tarantino"
+    ],
+    "box_office": {
+      "worldwide_usd": 321455689
+    },
+    "ratings": {
+      "imdb": 8.0,
+      "votes": 1229958
+    }
+  },
+  {
+    "id": "tt0169547",
+    "name": "American Beauty",
+    "released": "2000-01-21",
+    "genres": [
+      "Drama"
+    ],
+    "runtime_minutes": 122,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Sam Mendes"
+    ],
+    "box_office": {
+      "worldwide_usd": 356296601
+    },
+    "ratings": {
+      "imdb": 8.0,
+      "votes": 1049009
+    }
+  },
+  {
+    "id": "tt0112573",
+    "name": "Braveheart",
+    "released": "1995-12-01",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "runtime_minutes": 178,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Mel Gibson"
+    ],
+    "box_office": {
+      "worldwide_usd": 213216216
+    },
+    "ratings": {
+      "imdb": 7.9,
+      "votes": 941683
+    }
+  },
+  {
+    "id": "tt0086190",
+    "name": "Star Wars: Episode VI - Return of the Jedi",
+    "released": "1983-10-21",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "runtime_minutes": 131,
+    "origin": "USA",
+    "certificate": "PG",
+    "directed_by": [
+      "Richard Marquand"
+    ],
+    "box_office": {
+      "worldwide_usd": 475347111
+    },
+    "ratings": {
+      "imdb": 7.9,
+      "votes": 928036
+    }
+  },
+  {
+    "id": "tt0105236",
+    "name": "Reservoir Dogs",
+    "released": "1992-10-09",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime_minutes": 99,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Quentin Tarantino"
+    ],
+    "box_office": {
+      "worldwide_usd": 2889963
+    },
+    "ratings": {
+      "imdb": 7.9,
+      "votes": 896551
+    }
+  },
+  {
+    "id": "tt0338013",
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "released": "2004-10-22",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "runtime_minutes": 108,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Michel Gondry"
+    ],
+    "box_office": {
+      "worldwide_usd": 74036715
+    },
+    "ratings": {
+      "imdb": 7.9,
+      "votes": 889875
+    }
+  },
+  {
+    "id": "tt0114709",
+    "name": "Toy Story",
+    "released": "1996-03-22",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "runtime_minutes": 81,
+    "origin": "USA",
+    "certificate": "G",
+    "directed_by": [
+      "John Lasseter"
+    ],
+    "box_office": {
+      "worldwide_usd": 404265438
+    },
+    "ratings": {
+      "imdb": 7.9,
+      "votes": 864461
+    }
+  },
+  {
+    "id": "tt0119217",
+    "name": "Good Will Hunting",
+    "released": "1998-03-06",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime_minutes": 126,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Gus Van Sant"
+    ],
+    "box_office": {
+      "worldwide_usd": 225933435
+    },
+    "ratings": {
+      "imdb": 7.8,
+      "votes": 837379
+    }
+  },
+  {
+    "id": "tt0208092",
+    "name": "Snatch",
+    "released": "2001-03-16",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "runtime_minutes": 104,
+    "origin": "UK",
+    "certificate": "R",
+    "directed_by": [
+      "Guy Ritchie"
+    ],
+    "box_office": {
+      "worldwide_usd": 83557872
+    },
+    "ratings": {
+      "imdb": 7.8,
+      "votes": 766589
+    }
+  },
+  {
+    "id": "tt0180093",
+    "name": "Requiem for a Dream",
+    "released": "2000-12-15",
+    "genres": [
+      "Drama"
+    ],
+    "runtime_minutes": 102,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Darren Aronofsky"
+    ],
+    "box_office": {
+      "worldwide_usd": 7390108
+    },
+    "ratings": {
+      "imdb": 7.8,
+      "votes": 748291
+    }
+  },
+  {
+    "id": "tt0066921",
+    "name": "A Clockwork Orange",
+    "released": "1972-09-07",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "runtime_minutes": 136,
+    "origin": "UK",
+    "certificate": null,
+    "directed_by": [
+      "Stanley Kubrick"
+    ],
+    "box_office": {
+      "worldwide_usd": 26903440
+    },
+    "ratings": {
+      "imdb": 7.8,
+      "votes": 740301
+    }
+  },
+  {
+    "id": "tt0435761",
+    "name": "Toy Story 3",
+    "released": "2010-07-07",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "runtime_minutes": 103,
+    "origin": "USA",
+    "certificate": "G",
+    "directed_by": [
+      "Lee Unkrich"
+    ],
+    "box_office": {
+      "worldwide_usd": 1066969703
+    },
+    "ratings": {
+      "imdb": 7.8,
+      "votes": 739717
+    }
+  },
+  {
+    "id": "tt0086250",
+    "name": "Scarface",
+    "released": null,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime_minutes": 170,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Brian De Palma"
+    ],
+    "box_office": {
+      "worldwide_usd": 66023585
+    },
+    "ratings": {
+      "imdb": 7.8,
+      "votes": 721343
+    }
+  },
+  {
+    "id": "tt0075314",
+    "name": "Taxi Driver",
+    "released": null,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime_minutes": 114,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Martin Scorsese"
+    ],
+    "box_office": {
+      "worldwide_usd": 28441292
+    },
+    "ratings": {
+      "imdb": 7.7,
+      "votes": 703264
+    }
+  },
+  {
+    "id": "tt0211915",
+    "name": "Le fabuleux destin d'Amélie Poulain",
+    "released": "2002-01-25",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "runtime_minutes": 122,
+    "origin": "France",
+    "certificate": "R",
+    "directed_by": [
+      "Jean-Pierre Jeunet"
+    ],
+    "box_office": {
+      "worldwide_usd": 173924742
+    },
+    "ratings": {
+      "imdb": 7.7,
+      "votes": 690480
+    }
+  },
+  {
+    "id": "tt0093058",
+    "name": "Full Metal Jacket",
+    "released": "1987-10-09",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "runtime_minutes": 116,
+    "origin": "UK",
+    "certificate": null,
+    "directed_by": [
+      "Stanley Kubrick"
+    ],
+    "box_office": {
+      "worldwide_usd": 46357676
+    },
+    "ratings": {
+      "imdb": 7.7,
+      "votes": 658175
+    }
+  },
+  {
+    "id": "tt0090605",
+    "name": "Aliens",
+    "released": "1986-09-24",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime_minutes": 137,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "James Cameron"
+    ],
+    "box_office": {
+      "worldwide_usd": 131384634
+    },
+    "ratings": {
+      "imdb": 7.7,
+      "votes": 639500
+    }
+  },
+  {
+    "id": "tt0062622",
+    "name": "2001: A Space Odyssey",
+    "released": "1968-12-12",
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime_minutes": 149,
+    "origin": "UK",
+    "certificate": "G",
+    "directed_by": [
+      "Stanley Kubrick"
+    ],
+    "box_office": {
+      "worldwide_usd": 68989547
+    },
+    "ratings": {
+      "imdb": 7.6,
+      "votes": 587866
+    }
+  },
+  {
+    "id": "tt0033467",
+    "name": "Citizen Kane",
+    "released": "1948-11-25",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "runtime_minutes": 119,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Orson Welles"
+    ],
+    "box_office": {
+      "worldwide_usd": 1594107
+    },
+    "ratings": {
+      "imdb": 7.6,
+      "votes": 389322
+    }
+  },
+  {
+    "id": "tt8579674",
+    "name": "1917",
+    "released": "2020-01-23",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "runtime_minutes": 119,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Sam Mendes"
+    ],
+    "box_office": {
+      "worldwide_usd": 384857224
+    },
+    "ratings": {
+      "imdb": 7.6,
+      "votes": 362897
+    }
+  },
+  {
+    "id": "tt0086879",
+    "name": "Amadeus",
+    "released": "1985-02-15",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "runtime_minutes": 160,
+    "origin": "USA",
+    "certificate": "R",
+    "directed_by": [
+      "Milos Forman"
+    ],
+    "box_office": {
+      "worldwide_usd": 52066791
+    },
+    "ratings": {
+      "imdb": 7.6,
+      "votes": 361028
+    }
+  },
+  {
+    "id": "tt0052357",
+    "name": "Vertigo",
+    "released": "1958-11-18",
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "runtime_minutes": 128,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Alfred Hitchcock"
+    ],
+    "box_office": {
+      "worldwide_usd": 7796389
+    },
+    "ratings": {
+      "imdb": 7.5,
+      "votes": 352786
+    }
+  },
+  {
+    "id": "tt0053125",
+    "name": "North by Northwest",
+    "released": "1959-10-28",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime_minutes": 136,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Alfred Hitchcock"
+    ],
+    "box_office": {
+      "worldwide_usd": null
+    },
+    "ratings": {
+      "imdb": 7.5,
+      "votes": 291628
+    }
+  },
+  {
+    "id": "tt2106476",
+    "name": "Jagten",
+    "released": "2012-11-22",
+    "genres": [
+      "Drama"
+    ],
+    "runtime_minutes": 115,
+    "origin": "Denmark",
+    "certificate": "R",
+    "directed_by": [
+      "Thomas Vinterberg"
+    ],
+    "box_office": {
+      "worldwide_usd": 15843274
+    },
+    "ratings": {
+      "imdb": 7.5,
+      "votes": 269616
+    }
+  },
+  {
+    "id": "tt0056172",
+    "name": "Lawrence of Arabia",
+    "released": "1963-10-29",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "runtime_minutes": 228,
+    "origin": "UK",
+    "certificate": "PG",
+    "directed_by": [
+      "David Lean"
+    ],
+    "box_office": {
+      "worldwide_usd": 45710874
+    },
+    "ratings": {
+      "imdb": 7.5,
+      "votes": 261504
+    }
+  },
+  {
+    "id": "tt0070735",
+    "name": "The Sting",
+    "released": "1974-03-21",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "runtime_minutes": 129,
+    "origin": "USA",
+    "certificate": "PG",
+    "directed_by": [
+      "George Roy Hill"
+    ],
+    "box_office": {
+      "worldwide_usd": 156000000
+    },
+    "ratings": {
+      "imdb": 7.5,
+      "votes": 236285
+    }
+  },
+  {
+    "id": "tt0082096",
+    "name": "Das Boot",
+    "released": "1982-03-18",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime_minutes": 149,
+    "origin": "West Germany",
+    "certificate": "R",
+    "directed_by": [
+      "Wolfgang Petersen"
+    ],
+    "box_office": {
+      "worldwide_usd": 11487676
+    },
+    "ratings": {
+      "imdb": 7.5,
+      "votes": 226427
+    }
+  },
+  {
+    "id": "tt0059578",
+    "name": "Per qualche dollaro in più",
+    "released": "1965-12-20",
+    "genres": [
+      "Western"
+    ],
+    "runtime_minutes": 132,
+    "origin": "Italy",
+    "certificate": null,
+    "directed_by": [
+      "Sergio Leone"
+    ],
+    "box_office": {
+      "worldwide_usd": 15000000
+    },
+    "ratings": {
+      "imdb": 7.4,
+      "votes": 226039
+    }
+  },
+  {
+    "id": "tt1832382",
+    "name": "Jodaeiye Nader az Simin",
+    "released": "2011-10-21",
+    "genres": [
+      "Drama"
+    ],
+    "runtime_minutes": 123,
+    "origin": "Iran",
+    "certificate": "PG-13",
+    "directed_by": [
+      "Asghar Farhadi"
+    ],
+    "box_office": {
+      "worldwide_usd": 22926076
+    },
+    "ratings": {
+      "imdb": 7.4,
+      "votes": 214165
+    }
+  },
+  {
+    "id": "tt0045152",
+    "name": "Singin' in the Rain",
+    "released": "1953-02-05",
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "runtime_minutes": 103,
+    "origin": "USA",
+    "certificate": null,
+    "directed_by": [
+      "Stanley Donen"
+    ],
+    "bo

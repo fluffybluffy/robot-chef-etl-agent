@@ -1,0 +1,8 @@
+source | position | imdb_id | title | reason
+csv | 5 | None | The Godfather: Part II | imdb_id is missing
+csv | 7 | tt0167260 | The Lord of the Rings: The Return of the King | imdb_score 'abc' is not a number
+csv | 9 | tt0050083 | 12 Angry Men | duration_min -5 is outside the allowed range 30 to 400
+csv | 102 | tt0109830 | Forrest Gump | duplicate imdb_id (first seen at position 12)
+csv | 103 | tt9999991 | Test Movie | release_date '2031-13-45' is not a real YYYY-MM-DD date
+json | 2 | tt0253474 | The Pianist | votes is missing
+json | 4 | tt0054215 | Psycho | duration_min 'N/A' is not a number

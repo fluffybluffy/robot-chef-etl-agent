@@ -4,3 +4,4 @@ venv/
 __pycache__/
 target.db
 .pytest_cache/
+target_test.db
