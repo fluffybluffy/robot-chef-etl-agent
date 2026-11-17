@@ -1,0 +1,13 @@
+{
+  "imdb_id": "id",
+  "title": "name",
+  "release_date": "released",
+  "genres": "genres",
+  "duration_min": "runtime_minutes",
+  "country": "origin",
+  "content_rating": "certificate",
+  "director": "directed_by",
+  "income_usd": "box_office.worldwide_usd",
+  "votes": "ratings.votes",
+  "imdb_score": "ratings.imdb"
+}

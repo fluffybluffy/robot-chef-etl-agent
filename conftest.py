@@ -1,3 +1,4 @@
+import sqlite3
 from pathlib import Path
 
 import pandas as pd
@@ -5,12 +6,16 @@ import pytest
 
 from validate import validate
 
-CLEAN_CSV = Path(__file__).parent / 'data' / 'movies_clean.csv'
+DB_FILE = Path(__file__).parent / 'target.db'
 
 
 @pytest.fixture(scope='session')
 def df():
-    return pd.read_csv(CLEAN_CSV)
+    """The final table: what actually landed in the target database."""
+    conn = sqlite3.connect(DB_FILE)
+    table = pd.read_sql('SELECT * FROM movies', conn)
+    conn.close()
+    return table
 
 
 @pytest.fixture(scope='session')

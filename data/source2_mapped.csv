@@ -1,0 +1,61 @@
+imdb_id,title,release_date,genres,duration_min,country,content_rating,director,income_usd,votes,imdb_score
+tt1675434,Intouchables,2012-02-24,"Biography, Comedy, Drama",122,France,,"Olivier Nakache, Éric Toledano",426588510.0,736691,7.9
+tt0253474,The Pianist,2002-10-25,"Biography, Drama, Music",160,UK,R,Roman Polanski,120072577.0,707942,7.9
+tt2582802,Whiplash,2015-02-12,"Drama, Music",106,USA,R,Damien Chazelle,48983260.0,690732,8.4
+tt0054215,Psycho,1960-10-28,"Horror, Mystery, Thriller",109,USA,R,Alfred Hitchcock,32008644.0,586765,8.3
+tt0034583,Casablanca,1946-11-21,"Drama, Romance, War",102,USA,PG,Michael Curtiz,4374761.0,509953,8.3
+tt0064116,C'era una volta il West,1968-12-21,Western,165,Italy,PG-13,Sergio Leone,112911.0,295220,8.3
+tt0095327,Hotaru no haka,2015-10-11,"Animation, Drama, War",89,Japan,,Isao Takahata,516962.0,225438,8.3
+tt0095765,Nuovo Cinema Paradiso,1988-11-17,Drama,155,Italy,,Giuseppe Tornatore,13826605.0,223050,8.3
+tt0027977,Modern Times,1937-03-12,"Comedy, Drama, Family",87,USA,G,Charles Chaplin,457688.0,211250,8.3
+tt1345836,The Dark Knight Rises,2012-08-29,"Action, Adventure",164,UK,PG-13,Christopher Nolan,1081133191.0,1480582,8.3
+tt1853728,Django Unchained,2013-01-17,"Drama, Western",165,USA,R,Quentin Tarantino,425368238.0,1317856,8.3
+tt0209144,Memento,2001-01-19,"Mystery, Thriller",113,USA,R,Christopher Nolan,39970386.0,1098879,8.2
+tt0910970,WALL·E,2008-10-17,"Animation, Adventure, Family",98,USA,G,Andrew Stanton,521311860.0,974734,8.2
+tt0081505,The Shining,1980-12-22,"Drama, Horror",146,UK,R,Stanley Kubrick,46520613.0,869480,8.2
+tt0082971,Raiders of the Lost Ark,1981-06-12,"Action, Adventure",115,USA,PG,Steven Spielberg,390133212.0,865510,8.2
+tt4154756,Avengers: Infinity War,2018-04-25,"Action, Adventure, Sci-Fi",149,USA,,"Anthony Russo, Joe Russo",2048359754.0,796486,8.2
+tt0078748,Alien,1979-10-25,"Horror, Sci-Fi",117,UK,R,Ridley Scott,108110316.0,768874,8.2
+tt4154796,Avengers: Endgame,2019-04-24,"Action, Adventure, Drama",181,USA,,"Anthony Russo, Joe Russo",2797800564.0,754786,8.2
+tt0078788,Apocalypse Now,1979-12-18,"Drama, Mystery, War",147,USA,R,Francis Ford Coppola,91968688.0,591251,8.2
+tt0364569,Oldeuboi,2005-05-06,"Action, Drama, Mystery",120,South Korea,R,Chan-wook Park,15002116.0,501082,8.1
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-04-03,Comedy,95,UK,PG,Stanley Kubrick,9443876.0,441115,8.1
+tt0047396,Rear Window,1955-04-14,"Mystery, Thriller",112,USA,,Alfred Hitchcock,37032034.0,432390,8.1
+tt2380307,Coco,2017-12-28,"Animation, Adventure, Family",105,USA,,"Lee Unkrich, Adrian Molina",807083670.0,352455,8.1
+tt0405094,Das Leben der Anderen,2007-04-06,"Drama, Mystery, Thriller",137,Germany,R,Florian Henckel von Donnersmarck,77356942.0,349642,8.1
+tt4633694,Spider-Man: Into the Spider-Verse,2018-12-25,"Animation, Action, Adventure",117,USA,,"Bob Persichetti, Peter Ramsey",375540831.0,335892,8.1
+tt1187043,3 Idiots,2009-12-25,"Comedy, Drama",170,India,,Rajkumar Hirani,60262836.0,332217,8.1
+tt0119698,Mononoke-hime,2000-05-19,"Animation, Adventure, Fantasy",134,Japan,PG-13,Hayao Miyazaki,169785629.0,331045,8.0
+tt0087843,Once Upon a Time in America,1984-09-28,"Crime, Drama",229,USA,R,Sergio Leone,5472914.0,302317,8.0
+tt0032553,The Great Dictator,1945-06-25,"Comedy, Drama, War",125,USA,,Charles Chaplin,969879.0,197381,8.0
+tt0043014,Sunset Blvd.,1951-03-06,"Drama, Film-Noir",110,USA,,Billy Wilder,299645.0,195789,8.0
+tt0361748,Inglourious Basterds,2009-10-02,"Adventure, Drama, War",153,Germany,R,Quentin Tarantino,321455689.0,1229958,8.0
+tt0169547,American Beauty,2000-01-21,Drama,122,USA,R,Sam Mendes,356296601.0,1049009,8.0
+tt0112573,Braveheart,1995-12-01,"Biography, Drama, History",178,USA,R,Mel Gibson,213216216.0,941683,7.9
+tt0086190,Star Wars: Episode VI - Return of the Jedi,1983-10-21,"Action, Adventure, Fantasy",131,USA,PG,Richard Marquand,475347111.0,928036,7.9
+tt0105236,Reservoir Dogs,1992-10-09,"Crime, Drama, Thriller",99,USA,R,Quentin Tarantino,2889963.0,896551,7.9
+tt0338013,Eternal Sunshine of the Spotless Mind,2004-10-22,"Drama, Romance, Sci-Fi",108,USA,R,Michel Gondry,74036715.0,889875,7.9
+tt0114709,Toy Story,1996-03-22,"Animation, Adventure, Comedy",81,USA,G,John Lasseter,404265438.0,864461,7.9
+tt0119217,Good Will Hunting,1998-03-06,"Drama, Romance",126,USA,R,Gus Van Sant,225933435.0,837379,7.8
+tt0208092,Snatch,2001-03-16,"Comedy, Crime",104,UK,R,Guy Ritchie,83557872.0,766589,7.8
+tt0180093,Requiem for a Dream,2000-12-15,Drama,102,USA,R,Darren Aronofsky,7390108.0,748291,7.8
+tt0066921,A Clockwork Orange,1972-09-07,"Crime, Drama, Sci-Fi",136,UK,,Stanley Kubrick,26903440.0,740301,7.8
+tt0435761,Toy Story 3,2010-07-07,"Animation, Adventure, Comedy",103,USA,G,Lee Unkrich,1066969703.0,739717,7.8
+tt0086250,Scarface,,"Crime, Drama",170,USA,R,Brian De Palma,66023585.0,721343,7.8
+tt0075314,Taxi Driver,,"Crime, Drama",114,USA,R,Martin Scorsese,28441292.0,703264,7.7
+tt0211915,Le fabuleux destin d'Amélie Poulain,2002-01-25,"Comedy, Romance",122,France,R,Jean-Pierre Jeunet,173924742.0,690480,7.7
+tt0093058,Full Metal Jacket,1987-10-09,"Drama, War",116,UK,,Stanley Kubrick,46357676.0,658175,7.7
+tt0090605,Aliens,1986-09-24,"Action, Adventure, Sci-Fi",137,USA,R,James Cameron,131384634.0,639500,7.7
+tt0062622,2001: A Space Odyssey,1968-12-12,"Adventure, Sci-Fi",149,UK,G,Stanley Kubrick,68989547.0,587866,7.6
+tt0033467,Citizen Kane,1948-11-25,"Drama, Mystery",119,USA,,Orson Welles,1594107.0,389322,7.6
+tt8579674,1917,2020-01-23,"Drama, War",119,USA,,Sam Mendes,384857224.0,362897,7.6
+tt0086879,Amadeus,1985-02-15,"Biography, Drama, History",160,USA,R,Milos Forman,52066791.0,361028,7.6
+tt0052357,Vertigo,1958-11-18,"Mystery, Romance, Thriller",128,USA,,Alfred Hitchcock,7796389.0,352786,7.5
+tt0053125,North by Northwest,1959-10-28,"Adventure, Mystery, Thriller",136,USA,,Alfred Hitchcock,,291628,7.5
+tt2106476,Jagten,2012-11-22,Drama,115,Denmark,R,Thomas Vinterberg,15843274.0,269616,7.5
+tt0056172,Lawrence of Arabia,1963-10-29,"Adventure, Biography, Drama",228,UK,PG,David Lean,45710874.0,261504,7.5
+tt0070735,The Sting,1974-03-21,"Comedy, Crime, Drama",129,USA,PG,George Roy Hill,156000000.0,236285,7.5
+tt0082096,Das Boot,1982-03-18,"Adventure, Drama, Thriller",149,West Germany,R,Wolfgang Petersen,11487676.0,226427,7.5
+tt0059578,Per qualche dollaro in più,1965-12-20,Western,132,Italy,,Sergio Leone,15000000.0,226039,7.4
+tt1832382,Jodaeiye Nader az Simin,2011-10-21,Drama,123,Iran,PG-13,Asghar Farhadi,22926076.0,214165,7.4
+tt0045152,Singin' in the Rain,1953-02-05,"Comedy, Musical, Romance",103,USA,,Stanley Donen,1864182.0,213152,7.4

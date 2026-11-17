@@ -1,0 +1,5 @@
+imdb_id,title,column,csv_value,json_value,kept,reason
+tt1675434,Intouchables,duration_min,112.0,122.0,json,"no clear winner, so the rule prefers json"
+tt1675434,Intouchables,imdb_score,8.4,7.9,json,"no clear winner, so the rule prefers json"
+tt0253474,The Pianist,duration_min,150.0,160.0,json,"no clear winner, so the rule prefers json"
+tt0253474,The Pianist,imdb_score,8.4,7.9,json,"no clear winner, so the rule prefers json"
